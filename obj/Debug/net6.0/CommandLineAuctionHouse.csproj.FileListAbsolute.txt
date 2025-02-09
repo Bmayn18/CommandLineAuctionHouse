@@ -1,0 +1,14 @@
+C:\Users\ForSh\Downloads\CommandLineAuctionHouse\CommandLineAuctionHouse\bin\Debug\net6.0\CommandLineAuctionHouse.exe
+C:\Users\ForSh\Downloads\CommandLineAuctionHouse\CommandLineAuctionHouse\bin\Debug\net6.0\CommandLineAuctionHouse.deps.json
+C:\Users\ForSh\Downloads\CommandLineAuctionHouse\CommandLineAuctionHouse\bin\Debug\net6.0\CommandLineAuctionHouse.runtimeconfig.json
+C:\Users\ForSh\Downloads\CommandLineAuctionHouse\CommandLineAuctionHouse\bin\Debug\net6.0\CommandLineAuctionHouse.dll
+C:\Users\ForSh\Downloads\CommandLineAuctionHouse\CommandLineAuctionHouse\bin\Debug\net6.0\CommandLineAuctionHouse.pdb
+C:\Users\ForSh\Downloads\CommandLineAuctionHouse\CommandLineAuctionHouse\obj\Debug\net6.0\CommandLineAuctionHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ForSh\Downloads\CommandLineAuctionHouse\CommandLineAuctionHouse\obj\Debug\net6.0\CommandLineAuctionHouse.AssemblyInfoInputs.cache
+C:\Users\ForSh\Downloads\CommandLineAuctionHouse\CommandLineAuctionHouse\obj\Debug\net6.0\CommandLineAuctionHouse.AssemblyInfo.cs
+C:\Users\ForSh\Downloads\CommandLineAuctionHouse\CommandLineAuctionHouse\obj\Debug\net6.0\CommandLineAuctionHouse.csproj.CoreCompileInputs.cache
+C:\Users\ForSh\Downloads\CommandLineAuctionHouse\CommandLineAuctionHouse\obj\Debug\net6.0\CommandLineAuctionHouse.dll
+C:\Users\ForSh\Downloads\CommandLineAuctionHouse\CommandLineAuctionHouse\obj\Debug\net6.0\refint\CommandLineAuctionHouse.dll
+C:\Users\ForSh\Downloads\CommandLineAuctionHouse\CommandLineAuctionHouse\obj\Debug\net6.0\CommandLineAuctionHouse.pdb
+C:\Users\ForSh\Downloads\CommandLineAuctionHouse\CommandLineAuctionHouse\obj\Debug\net6.0\CommandLineAuctionHouse.genruntimeconfig.cache
+C:\Users\ForSh\Downloads\CommandLineAuctionHouse\CommandLineAuctionHouse\obj\Debug\net6.0\ref\CommandLineAuctionHouse.dll
